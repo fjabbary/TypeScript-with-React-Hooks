@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button.red {
+  background-color: rgb(230, 143, 100) !important;
+  padding: 0.25rem !important;
+}
+
+button.green {
+  background-color: rgb(100, 230, 143) !important;
+  padding: 0.25rem !important;
+}
